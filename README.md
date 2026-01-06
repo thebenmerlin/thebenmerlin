@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Gajanan Barve
+# Hi, I'm Gajanan Barve
 
-**Quantitative Finance • Investment Banking • Systems & Machine Learning**
+**Quantitative Finance • Application Systems • Data & Analytics**
 
-[Portfolio](#) · [LinkedIn](https://linkedin.com/in/gajananbarve) · [Email](mailto:gajanan@example.com)
+[LinkedIn](https://linkedin.com/in/gajananbarve) · [Email](mailto:gajananbarve@icloud.com)
 
 </div>
 
@@ -80,7 +80,7 @@ Published author with experience across finance, policy, and applied research.  
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/gajananbarve) · [Email](mailto:gajanan@example.com)
+[LinkedIn](https://linkedin.com/in/gajananbarve) · [Email](mailto:gajananbarve@icloud.com)
 
 ---
 
