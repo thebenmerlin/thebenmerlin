@@ -1,80 +1,91 @@
-<h1 align="center">Hi 👋, I'm Gajanan Barve</h1>
-<h3 align="center">
-Quantitative Finance • Investment Banking • Systems & ML
-</h3>
-
-<p align="center">
-  <a href="https://your-portfolio-link.com">Portfolio</a> •
-  <a href="https://linkedin.com/in/your-link">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a> •
-  <a href="https://x.com/yourhandle">X</a>
-</p>
-
-<p align="center">
-I build <b>high-performance financial systems</b>, quantitative models, and simulation-driven software.  
-Focused on correctness, rigor, and real-world execution — not demos.
-</p>
-
----
-
-## 🚀 Current Focus
-- Quantitative trading strategies & backtesting engines  
-- ML-based simulations (finance + physics-driven systems)  
-- Market microstructure, risk, and optimization  
-- Production-grade system design and data pipelines  
-
----
-
-## 🧠 Selected Projects
-
-### 📈 Quant Strategy & Backtesting Engine
-Modular research framework for systematic trading strategies.
-- Vectorized backtests, realistic constraints, performance analytics  
-- Emphasis on reproducibility and risk-aware evaluation  
-`Python • NumPy • Pandas • Finance Math`
-
-### 🏎️ EV F1 Performance Simulator
-Design + simulation of an electric-heavy, 2026-era F1-style car.
-- Lap-time modeling, energy deployment, optimization  
-- Physics-informed + ML-assisted decision logic  
-`Simulation • Optimization • ML`
-
-### 🖥️ MVP90 Terminal (In Progress)
-Bloomberg-style venture intelligence & analytics platform.
-- Structured metrics, live analysis, scalable architecture  
-- Built for real decision-makers, not dashboards  
-`Systems Design • APIs • Data Engineering`
-
----
-
-## 🛠️ Languages & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,mongodb" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" />
+
+# Hi 👋, I'm Gajanan Barve
+
+**Quantitative Finance • Investment Banking • Systems & Machine Learning**
+
+[Portfolio](#) · [LinkedIn](https://linkedin.com/in/gajananbarve) · [Email](mailto:gajanan@example.com)
+
 </div>
 
 ---
 
-## 📊 GitHub Activity
+Building high-performance financial systems, quantitative models, and simulations with an emphasis on correctness, rigor, and real-world execution.  Focused on the intersection of markets, technology, and scalable infrastructure.
+
+---
+
+### Current Focus
+
+- Quantitative trading strategies & backtesting engines
+- ML-based simulations for finance and complex systems
+- Market microstructure, risk modeling, and portfolio optimization
+- Production-grade system architecture and data pipelines
+- Applied research in markets and regulatory technology
+
+---
+
+### Selected Projects
+
+**[Quant Strategies](https://github.com/thebenmerlin/quant-strategies)**  
+Systematic quantitative trading strategies with rigorous backtesting frameworks. Emphasis on signal research, risk control, and performance evaluation.   
+`Python` `NumPy` `Pandas` `Finance Math`
+
+**[Elysian Trading System](https://github.com/thebenmerlin/elysian-trading-system)**  
+End-to-end trading system architecture covering strategy orchestration, execution logic, and system design. Built with extensibility, robustness, and real-world constraints in mind.  
+`TypeScript` `PostgreSQL` `Python`
+
+**[MVP90 Terminal](https://github.com/thebenmerlin/MVP90)** *(In Progress)*  
+Bloomberg-style venture intelligence and analytics platform.  Structured metrics, live analysis, and scalable architecture designed for decision-makers.  
+`TypeScript` `PostgreSQL`
+
+---
+
+### Skills
+
+**Programming**  
+Python · C++ · Java · JavaScript · TypeScript · SQL · R
+
+**Quant & Finance**  
+Backtesting · Factor Models · Risk Analysis · Market Microstructure · Time-Series Analysis
+
+**ML & Data**  
+Statistical Learning · NumPy · Pandas · Scikit-learn · Matplotlib · Jupyter
+
+**Backend & Systems**  
+FastAPI · Flask · Node. js · Express · REST APIs · PostgreSQL · Data Pipelines
+
+**Infrastructure & Tools**  
+Git · Linux · Docker · AWS · Render
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,postgres,docker,aws,git&theme=dark" />
 </p>
 
 ---
 
-## ✍️ Writing & Research
-- Published author  
-- Experience across finance, policy, and applied research  
-- Interested in the intersection of markets, technology, and regulation  
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thebenmerlin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp. com/?user=thebenmerlin&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: your@email.com  
+### Writing & Research
 
-<p align="center"><i>Build things that are correct, scalable, and worth deploying.</i></p>
+Published author with experience across finance, policy, and applied research.  Interested in the intersection of markets, technology, and regulation. 
+
+---
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/gajananbarve) · [Email](mailto:gajanan@example.com)
+
+---
+
+<div align="center">
+
+*Build things that are correct, scalable, and worth deploying.*
+
+</div>
