@@ -10,17 +10,18 @@
 
 ---
 
-Building high-performance financial systems, quantitative models, and simulations with an emphasis on correctness, rigor, and real-world execution.  Focused on the intersection of markets, technology, and scalable infrastructure.
+Building high-performance financial applications and systems, quantitative models, and simulation-driven software with a strong emphasis on correctness, rigor, and real-world execution. Focused on the intersection of markets, technology, and scalable, production-grade infrastructure.
 
 ---
 
 ### Current Focus
 
-- Quantitative trading strategies & backtesting engines
-- ML-based simulations for finance and complex systems
-- Market microstructure, risk modeling, and portfolio optimization
-- Production-grade system architecture and data pipelines
-- Applied research in markets and regulatory technology
+- Designing and implementing quantitative trading strategies and robust backtesting engines
+- Developing production-grade financial applications and end-to-end trading systems
+- Applying ML-assisted simulations to finance and complex, system-level problems
+- Studying market microstructure, risk modeling, and portfolio optimization
+- Architecting scalable full-stack systems, APIs, and data pipelines for real-world deployment
+- Conducting applied research at the intersection of markets, technology, and regulation
 
 ---
 
@@ -59,15 +60,6 @@ Git · Linux · Docker · AWS · Render
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,postgres,docker,aws,git&theme=dark" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thebenmerlin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp. com/?user=thebenmerlin&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 ---
