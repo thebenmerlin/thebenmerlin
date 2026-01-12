@@ -99,6 +99,6 @@ Published author with experience across finance, policy, and applied research.  
 
 <div align="center">
 
-*I do it for the thrill. Baaki idk*
+*I do it for the thrill. Baaki idk!*
 
 </div>
